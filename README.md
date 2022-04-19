@@ -13,8 +13,10 @@ Size is the number of frames in memory.
 Sample Run:
 
 >> python paging.py 3
+
 Enter the length of the page reference array:
 >>36
+
 FIFO 23 page faults.
 LRU 24 page faults.
 OPT 17 page faults.
